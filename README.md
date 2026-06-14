@@ -1,10 +1,8 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f98e/512.gif" alt="🦎" width="32" height="32"> Hello, I'm Giacomo
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Giacomo+%F0%9F%A6%8E;Data+Engineer+%40+SDG+Consulting;M.Sc.+Statistical+%26+Economic+Sci." />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Giacomo+%F0%9F%A6%8E;Data+Engineer+%40+SDG+Consulting;M.Sc.+Statistical+%26+Economic+Sci." alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Giacomo+%F0%9F%A6%8E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=2000&color=000000&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Giacomo+%F0%9F%A6%8E" alt="Hello, I'm Giacomo" />
 </picture>
 
 [![Website](https://img.shields.io/badge/WEBSITE-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://giacomorabuzzi.github.io)
